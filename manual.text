@@ -1,0 +1,11 @@
+Como criar um servidor NODE.JS
+
+SERVIDOR PADRÃO
+1. Comando para iniciar: "npm init -y" (O '-y' é para selecionar 'sim' em tudo que pede para confirmar na inicialização);
+2. Após criação do 'package.json' entrar no arquivo e fazer alguma mudanças, se necessário, como nome da aplicação, descrição, keywords, e author, por exemplo;
+3. Criar um novo arquivo com o mesmo nome do "main" mostrado no 'package.json', que no caso é 'index.js';
+4. Após criar o servidor padrão com os elementos básicos, é só rodar com o node e ver o resultado na tela.
+
+SERVIDAR COM EXPRESS
+1. Baixar o EXPRESS com o comando 'mpn i express';
+2
